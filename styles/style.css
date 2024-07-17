@@ -388,7 +388,7 @@ footer{
         left: 400px;
     }
     .div6{
-        left: 300px;
+        left: 400px;
     }
     .div7{
         width: 150px;
@@ -406,7 +406,7 @@ footer{
         height: 400px;
     }
     .section-6{
-        left: 200px;
+        left: 320px;
     }
     .btn4{
         width: 140px;
@@ -442,7 +442,7 @@ footer{
         width: 250px;
     }
     .div6{
-        left: 220px;
+        left: 280px;
     }
     .div10{
         left: 500px;
@@ -460,7 +460,7 @@ footer{
         height: 350px;
     }
     .section-6{
-        left: 100px;
+        left: 150px;
     }
 }
 @media screen and (max-width: 768px){
@@ -539,7 +539,7 @@ footer{
         margin-left: 20px;
     }
     .div6{
-        left: 120px;
+        left: 220px;
     }
     .div8{
         margin: 0px;
@@ -558,13 +558,13 @@ footer{
         height: 350px;
     }
     .section-5{
-        height: 1950px;
+        height: 2000px;
     }
     .section-6{
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        left: 150px;
+        left: 250px;
     }
     footer{
         height: 50px;
@@ -676,7 +676,7 @@ footer{
         height: 220px;
     }
     .section-5{
-        height: 1320px;
+        height: 1370px;
     }
     .section-6{
         top: 70px;
@@ -762,7 +762,7 @@ footer{
         width: 130px;
     }
     .section-5{
-        height: 1150px;
+        height: 1170px;
     }
     .btn4{
         height: 20px;
